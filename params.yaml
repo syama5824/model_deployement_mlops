@@ -1,0 +1,4 @@
+# Model parameters for ElasticNet (common in wine quality projects)
+alpha: 0.5
+l1_ratio: 0.5
+random_state: 42

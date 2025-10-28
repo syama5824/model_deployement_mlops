@@ -1,11 +1,11 @@
 pandas 
 mlflow==2.2.2
 notebook
-numpy
+# numpy
 scikit-learn
 matplotlib
 python-box==6.0.2
-pyAML
+PyYAML
 tqdm
 ensure
 joblib
